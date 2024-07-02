@@ -1,2 +1,2 @@
 ```{bash}
-echo "saludo"
+echo "saludo 2"
